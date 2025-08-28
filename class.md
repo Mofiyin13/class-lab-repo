@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Mofiyinfoluwa Adebayo 
+- Certification: GitHub Certification
 
 ## Instructions
 Please replace the placeholders with your details:
